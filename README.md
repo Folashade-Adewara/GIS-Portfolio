@@ -66,6 +66,29 @@ print layout.
 
 ---
 
+### 8. Calgary Spatial Analysis — 9 Geoprocessing Maps
+**Tool:** QGIS  
+**Topic:** Urban Spatial Analysis Series
+
+A series of 9 spatial analysis maps answering specific geographic 
+questions about Calgary using geoprocessing tools including 
+intersection, difference, boundary extraction, adjacency analysis 
+and hydrological overlay. All built using City of Calgary open 
+data and EPSG:3776 coordinate system.
+
+![Calgary Spatial Analysis](https://raw.githubusercontent.com/Folashade-Adewara/Calgary-Spatial-Analysis-QGIS/main/maps/Features_in_Policy%20_Plan%20_Boundaries.png)
+
+🔗 [View on GitHub](https://github.com/Folashade-Adewara/Calgary-Spatial-Analysis-QGIS)
+
+**Skills demonstrated:**
+- Intersection, difference and boundary extraction
+- Hydrological and natural area overlay
+- Adjacency and proximity analysis
+- Multi-layer geoprocessing workflows
+- Calgary open data integration
+
+---
+
 ### 3. Flight Delay Analysis — MSP Airport
 **Tool:** ArcGIS Dashboards
 **Topic:** Aviation Data Analysis
