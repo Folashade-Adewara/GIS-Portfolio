@@ -66,7 +66,7 @@ print layout.
 
 ---
 
-### 8. Calgary Spatial Analysis — 9 Geoprocessing Maps
+### Calgary Spatial Analysis — 9 Geoprocessing Maps
 **Tool:** QGIS  
 **Topic:** Urban Spatial Analysis Series
 
